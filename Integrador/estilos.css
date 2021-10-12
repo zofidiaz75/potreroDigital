@@ -1,0 +1,35 @@
+img {
+  float: right;
+  height: 450px;
+  right: 500px;
+}
+h1{
+  font-size: 30px;
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+  overflow: hidden;
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+}
+.ElementoA{
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+  padding-top: 20px;
+  color: gray;
+}
+.ElementoB{
+  font-size: 17px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: 'Poppins', sans-serif;
+  color: gray;
+}
+
+.ElementoC{
+  font-size: 15px;
+  padding-top: 20px;
+  font-family: 'Poppins', sans-serif;
+  color: gray;
+
+}
